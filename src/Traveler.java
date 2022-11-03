@@ -30,6 +30,7 @@ public class Traveler {
   /** Tracks Total Miles Traveled */
   int miles_traveled = 0;
 
+
   /** Takes the name of a city */
   String city_name = "";
 
