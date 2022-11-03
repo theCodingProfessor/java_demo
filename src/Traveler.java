@@ -15,6 +15,8 @@ public class Traveler {
     return miles_traveled;
   }
 
+  /** getCity retrieves the city name 
+   */
   public String getCity_name() {
     return city_name;
   }
