@@ -2,6 +2,9 @@ package src;
 
 import java.util.Scanner;
 
+
+/** Main driver file for Demo Project
+ * @author Clinton Garwood*/
 public class driver_main {
 
   public static void main(String[] args) {
