@@ -15,12 +15,14 @@ public class Traveler {
     return miles_traveled;
   }
 
-  /** getCity retrieves the city name 
+  /** getCity retrieves the city name
    */
   public String getCity_name() {
     return city_name;
   }
 
+  /** array list stores cities
+   */
   public ArrayList<String> getCities_visited() {
     return cities_visited;
   }
